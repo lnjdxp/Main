@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("not working")
+game.Players.LocalPlayer:Kick("sugi pula")
